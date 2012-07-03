@@ -18,16 +18,16 @@ Core Modules Include:<br/>
   <li>Registration</li>
   <li>Password management</li>
   <li>Sessions</li>
-</ul>
+</ul><br/>
 
 2. User Authorisation
 <ul>
   <li>Group Permissions</li>
   <li>Individual Permissions</li>
-</ul>
+</ul><br/>
 
 3. User Management
 <ul>
   <li>Emailing</li>
   <li>Admin Management</li>
-</ul>
+</ul><br/>
