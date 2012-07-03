@@ -11,8 +11,8 @@ Core Modules Include:<br/>
 
 
 
-<u>USER MANAGEMENT SYSTEM</u><br/>
-1. User Authentication
+<u><b>USER MANAGEMENT SYSTEM</b></u><br/>
+User Authentication
 <ul>
   <li>Login/Logout</li>
   <li>Registration</li>
@@ -20,13 +20,13 @@ Core Modules Include:<br/>
   <li>Sessions</li>
 </ul><br/>
 
-2. User Authorisation
+User Authorisation
 <ul>
   <li>Group Permissions</li>
   <li>Individual Permissions</li>
 </ul><br/>
 
-3. User Management
+User Management
 <ul>
   <li>Emailing</li>
   <li>Admin Management</li>
